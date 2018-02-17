@@ -20,5 +20,5 @@ import java.lang.annotation.RetentionPolicy;
 
 @GetOutOfHere
 @Retention(RetentionPolicy.RUNTIME)
-public @interface WFT {
+public @interface WTF {
 }
